@@ -4,7 +4,7 @@ repo used : [Gradient-Domain-Fusion](https://github.com/OlaPietka/Gradient-Domai
 
 Generated from image[0,0] pixel value and masking rest .
 
-`image                                         pix[0,0]/2                        pix[0,0]/4                         pix[0,0]/8`
+`image                               pix[0,0]/2                        pix[0,0]/4                         pix[0,0]/8`
 
 ![](stack_reconst.jpg)
 
